@@ -27,4 +27,8 @@ Welcome to **Dice Game**! A fun and simple game built using **HTML, CSS, and Jav
    ```bash
    git clone https://github.com/your-username/dice-game.git
 
+2. Navigate to the project folder:
+   ```bash
+   cd dice-game
 
+3. Open index.html in your browser.
