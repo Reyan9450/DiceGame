@@ -28,5 +28,3 @@ Welcome to **Dice Game**! A fun and simple game built using **HTML, CSS, and Jav
    git clone https://github.com/your-username/dice-game.git
 
 
-
-![Demo](asset/Demo.gif)
